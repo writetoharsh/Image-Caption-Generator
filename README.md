@@ -8,3 +8,5 @@ Dataset used - Flickr8k and some images for test downloaded from Google images.
 
 ### Sample Captions
 ![](https://github.com/writetoharsh/Image-Caption-Generator/blob/main/Sample/Sample%20Caption.PNG?raw=true)
+
+
